@@ -17,6 +17,7 @@ public class MatrizExercicio {
                 System.out.print(numeros[i][j] + " ");
             }
             System.out.println();
+            sc.close();
         }
     }
 }
